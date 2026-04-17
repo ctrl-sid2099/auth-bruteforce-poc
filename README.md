@@ -10,8 +10,8 @@ It simulates repeated login attempts against a web application by sending HTTP P
 ## ⚙️ How It Works
 
 ### 1) Input Configuration
-
-  - The user provides:
+The user provides:
+  
   - Target login URL
   - Username
   - Password wordlist
